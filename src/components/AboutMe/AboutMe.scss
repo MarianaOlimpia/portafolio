@@ -1,0 +1,40 @@
+
+.icons {
+    width: 4rem;
+    height: 4rem;
+    margin: 1rem;
+}
+.iconContainer {
+    background: radial-gradient(circle, rgba(255,255,255,0.7483368347338936) 0%, rgba(0,230,255,0.6923144257703081) 100%);
+    margin: 0rem 1rem 5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7rem;
+    border-radius: 9rem;
+}
+.iconSection {
+    display: flex;
+}
+
+// @keyframes bounce {
+//     from, to {
+//     transform: translateY(10vh) scaleY(.96);
+//     }
+//     60% {
+//     transform: translateY(5vh) scaleY(1);
+//     }
+//     }
+//     @-webkit-keyframes bounce {
+//     from, to {
+//     transform: translateY(-5vh) scaleY(.96);
+//     }
+//     60% {
+//     transform: translateY(-5vh) scaleY(1);
+//     }
+//     }
+//     .iconContainer {
+
+//       animation: bounce 1.3s cubic-bezier(0.30,1.9,0.80,2.1) infinite;
+//       -webkit-animation: bounce 1.3s cubic-bezier(0.30,1.9,0.80,2.1) infinite;
+//     }
