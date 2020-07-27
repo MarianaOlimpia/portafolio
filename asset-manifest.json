@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.3571bb04.chunk.css",
+    "main.js": "/portafolio/static/js/main.de6a70e4.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.de6a70e4.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.febf8ef0.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.febf8ef0.js.map",
+    "static/js/2.41701ccb.chunk.js": "/portafolio/static/js/2.41701ccb.chunk.js",
+    "static/js/2.41701ccb.chunk.js.map": "/portafolio/static/js/2.41701ccb.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "precache-manifest.8140fa68629d1ebd9cacb86b8f829929.js": "/portafolio/precache-manifest.8140fa68629d1ebd9cacb86b8f829929.js",
+    "service-worker.js": "/portafolio/service-worker.js",
+    "static/css/main.3571bb04.chunk.css.map": "/portafolio/static/css/main.3571bb04.chunk.css.map",
+    "static/js/2.41701ccb.chunk.js.LICENSE.txt": "/portafolio/static/js/2.41701ccb.chunk.js.LICENSE.txt",
+    "static/media/cipher.jpg": "/portafolio/static/media/cipher.a307a626.jpg",
+    "static/media/email.png": "/portafolio/static/media/email.184959a4.png",
+    "static/media/github.png": "/portafolio/static/media/github.ff3af718.png",
+    "static/media/react.png": "/portafolio/static/media/react.e329191b.png",
+    "static/media/social-network.png": "/portafolio/static/media/social-network.e365efb8.png",
+    "static/media/steam.png": "/portafolio/static/media/steam.e48dee21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.febf8ef0.js",
+    "static/js/2.41701ccb.chunk.js",
+    "static/css/main.3571bb04.chunk.css",
+    "static/js/main.de6a70e4.chunk.js"
+  ]
+}
