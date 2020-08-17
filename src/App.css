@@ -16,3 +16,9 @@ h1, h2 {
   color: #1af0dc;
   margin: 4rem 2rem;
 }
+li {
+  cursor: pointer;
+}
+.navbar-brand {
+  cursor: pointer;
+}
