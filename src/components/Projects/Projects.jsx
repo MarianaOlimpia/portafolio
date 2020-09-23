@@ -3,6 +3,7 @@ import './Projects.scss';
 import datalovers from '../../Assets/datalovers.PNG';
 import socialnetwork from '../../Assets/socialnetwork.PNG';
 import burgerqueen from '../../Assets/burgerqueen.PNG';
+import bigleaper from '../../Assets/bigleaper.png';
 import reactIcon from '../../Assets/icon-react.png';
 import materialIcon from '../../Assets/icon-materialui.png';
 import antdesignIcon from '../../Assets/icon-antdesign.png';
@@ -18,23 +19,23 @@ const Projects = () => {
 
             <div className='row cards-container'>
                 <div className="card card-project m-3 mx-auto">
-                    <img src={datalovers} className="card-img-top" alt="..." />
+                    <img src={bigleaper} className="card-img-top" alt="..." />
                     <div className="card-body">
-                        <h5 className="card-title">Data Lovers</h5>
-                        <p className="card-text">Interfaz web responsiva donde se puede consultar y manipular data por medio de filtros.</p>
+                        <h5 className="card-title">Reto Bigleaper Talent Fest</h5>
+                        <p className="card-text">Modulo creado durante el Talent Fest CDMX 2020 de Laboratoria para la app Bigleaper, en conjunto con Fairwind.</p>
                         <div>
                             <h6>1 semana</h6>
                             <img src={reactIcon} className="projects-icons" alt="..." />
                             <img src={materialIcon} className="projects-icons" alt="..." />
                         </div>
                         <a 
-                            href="https://github.com/MarianaOlimpia/data-lovers-react" 
+                            href="https://github.com/MarianaOlimpia/Bigleaper-client" 
                             target='_blank' 
                             rel="noopener noreferrer" 
                             className="btn btn-primary"
                         >Repositorio</a>
                         <a 
-                            href="https://marianaolimpia.github.io/data-lovers-react/" 
+                            href="https://lizethrivera04.github.io/Bigleaper-client/" 
                             target='_blank' 
                             rel="noopener noreferrer" 
                             className="btn btn-primary">Demo</a>
